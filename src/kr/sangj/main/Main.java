@@ -11,7 +11,7 @@ import kr.sangj.collectionramework.treesetcomparator.TreeSetExam;
  * @author sangj
  * @since  2017.12.28
  */
-public class main {
+public class Main {
 
 	public static void main(String[] args) {
 
